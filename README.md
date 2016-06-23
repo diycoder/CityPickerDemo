@@ -9,4 +9,4 @@
    mPopWindow.showPopupWindow(rootView);//设置popwindow显示位置 
    
    mPopWindow.setCityPickListener(this);//设置城市选择监听  
-
+![image](https://github.com/diycoder/CityPickerDemo/blob/master/citypicker/src/main/assets/CityPicker.gif)   
