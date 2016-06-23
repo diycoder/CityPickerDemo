@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="bg">#cccccc</color>
+
+    <!--city pick-->
+    <color name="province_line_border">#C7C7C7</color>
+</resources>
